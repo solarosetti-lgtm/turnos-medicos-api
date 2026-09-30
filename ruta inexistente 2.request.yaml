@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: http://localhost:3000/ruta-inexistente
+method: GET
+order: 4463196114303310

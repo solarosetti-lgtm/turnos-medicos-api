@@ -1,0 +1,5 @@
+name: TurnosMed
+values:
+  - key: baseUrl
+    value: 'http://localhost:3000'
+color: 300

@@ -1,0 +1,102 @@
+[
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440001",
+    "nombre": "Cardiología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440002",
+    "nombre": "Clínica Médica",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440003",
+    "nombre": "Pediatría",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440004",
+    "nombre": "Traumatología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440005",
+    "nombre": "Dermatología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440006",
+    "nombre": "Oftalmología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440007",
+    "nombre": "Ginecología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440008",
+    "nombre": "Neurología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440009",
+    "nombre": "Endocrinología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440010",
+    "nombre": "Urología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440011",
+    "nombre": "Neumología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440012",
+    "nombre": "Gastroenterología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440013",
+    "nombre": "Psiquiatría",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440014",
+    "nombre": "Otorrinolaringología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440015",
+    "nombre": "Reumatología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440016",
+    "nombre": "Oncología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440017",
+    "nombre": "Infectología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440018",
+    "nombre": "Nefrología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440019",
+    "nombre": "Hematología",
+    "activa": true
+  },
+  {
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440020",
+    "nombre": "Alergología",
+    "activa": true
+  }
+]

@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{baseUrl}}/ruta-inexistente"
+method: GET
+order: 3552754909552979

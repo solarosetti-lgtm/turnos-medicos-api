@@ -1,0 +1,242 @@
+[
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440001",
+    "nombre": "Laura",
+    "apellido": "Martínez",
+    "matricula": "MP-45821",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440001",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440002",
+    "nombre": "Federico",
+    "apellido": "Gómez",
+    "matricula": "MP-39214",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440002",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440003",
+    "nombre": "Mariana",
+    "apellido": "Rodríguez",
+    "matricula": "MP-52136",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440003",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440004",
+    "nombre": "Santiago",
+    "apellido": "Fernández",
+    "matricula": "MP-47652",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440004",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440005",
+    "nombre": "Carolina",
+    "apellido": "López",
+    "matricula": "MP-61348",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440005",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440006",
+    "nombre": "Matías",
+    "apellido": "Sánchez",
+    "matricula": "MP-38427",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440006",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440007",
+    "nombre": "Gabriela",
+    "apellido": "Pérez",
+    "matricula": "MP-52741",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440007",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440008",
+    "nombre": "Diego",
+    "apellido": "Romero",
+    "matricula": "MP-43985",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440008",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440009",
+    "nombre": "Valentina",
+    "apellido": "Torres",
+    "matricula": "MP-58123",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440009",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440010",
+    "nombre": "Nicolás",
+    "apellido": "Díaz",
+    "matricula": "MP-46279",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440010",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440011",
+    "nombre": "Paula",
+    "apellido": "Herrera",
+    "matricula": "MP-51462",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440011",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440012",
+    "nombre": "Martín",
+    "apellido": "Castro",
+    "matricula": "MP-39751",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440012",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440013",
+    "nombre": "Florencia",
+    "apellido": "Vega",
+    "matricula": "MP-62834",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440013",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440014",
+    "nombre": "Julián",
+    "apellido": "Morales",
+    "matricula": "MP-45317",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440014",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440015",
+    "nombre": "Luciana",
+    "apellido": "Navarro",
+    "matricula": "MP-53628",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440015",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440016",
+    "nombre": "Andrés",
+    "apellido": "Molina",
+    "matricula": "MP-41753",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440016",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440017",
+    "nombre": "Camila",
+    "apellido": "Acosta",
+    "matricula": "MP-59246",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440017",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440018",
+    "nombre": "Pablo",
+    "apellido": "Silva",
+    "matricula": "MP-48139",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440018",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440019",
+    "nombre": "Rocío",
+    "apellido": "Benítez",
+    "matricula": "MP-54721",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440019",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440020",
+    "nombre": "Tomás",
+    "apellido": "Suárez",
+    "matricula": "MP-60934",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440020",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440021",
+    "nombre": "María",
+    "apellido": "Ríos",
+    "matricula": "MP-43582",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440001",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440022",
+    "nombre": "Sebastián",
+    "apellido": "Ibarra",
+    "matricula": "MP-51847",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440003",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440023",
+    "nombre": "Agustina",
+    "apellido": "Vargas",
+    "matricula": "MP-47361",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440002",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440024",
+    "nombre": "Facundo",
+    "apellido": "Cabrera",
+    "matricula": "MP-62519",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440004",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440025",
+    "nombre": "Daniela",
+    "apellido": "Ponce",
+    "matricula": "MP-49172",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440005",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440026",
+    "nombre": "Gonzalo",
+    "apellido": "Méndez",
+    "matricula": "MP-56328",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440006",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440027",
+    "nombre": "Julieta",
+    "apellido": "Ferreyra",
+    "matricula": "MP-43765",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440007",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440028",
+    "nombre": "Maximiliano",
+    "apellido": "Correa",
+    "matricula": "MP-58413",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440008",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440029",
+    "nombre": "Sofía",
+    "apellido": "Peralta",
+    "matricula": "MP-61257",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440009",
+    "activo": true
+  },
+  {
+    "profesionalId": "650e8400-e29b-41d4-a716-446655440030",
+    "nombre": "Emiliano",
+    "apellido": "Godoy",
+    "matricula": "MP-52948",
+    "especialidadId": "550e8400-e29b-41d4-a716-446655440010",
+    "activo": true
+  }
+]
